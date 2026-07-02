@@ -31,6 +31,7 @@ Fork 專案：點網頁右上角的 Fork，把程式碼複製到你的 GitHub。
 
 手動啟動：到 Actions 分頁點 iTouch Grade Checker -> Run workflow，成功的話就會收到信了！」
 
+第一次使用TXT請改成0 那是紀錄有沒有登記的成績 他會自己改 之後不用理他
 ## 🤖 維護者
 * **Feng, Ying-chen**
 
